@@ -5,6 +5,5 @@
 
 ## 引入方式
 
-### 1. 将bing.php放入网站根目录
-### 2. 网页 ```<body>``` 中加入以下代码即可
-    <img id="wallpaper" src="//yourdomain.com/bing.php"> 
+### 将 bing.php 放入网站根目录
+    访问 yourdomain.com/bing.php 即可
