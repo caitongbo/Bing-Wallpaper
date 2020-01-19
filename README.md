@@ -1,7 +1,7 @@
 # BingWallpaper
 
 ## 运行环境
-### PHP
+### Nginx、PHP
 
 ## 引入方式
 
